@@ -1,5 +1,5 @@
 # Tetris-Basic-JS
 
- Recreando el clasico Tetris con JavaScript 
+ Recreando el clasico Tetris con JavaScript
 
 
